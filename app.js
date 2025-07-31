@@ -41,21 +41,21 @@
 
 
 
-let a = +prompt("Enter A number");
-let b = +prompt("Enter A number");
+// let a = +prompt("Enter A number");
+// let b = +prompt("Enter A number");
 
-let sum = a + b;
-let sub = a - b;
-let mul = a * b;
-let div = a / b;
-let modeulas = a % b;
-// let increament = 
-let decreament = a + b;
+// let sum = a + b;
+// let sub = a - b;
+// let mul = a * b;
+// let div = a / b;
+// let modeulas = a % b;
+// // let increament = 
+// let decreament = a + b;
 
-document.write(++sum + "<br>");
-document.write(--sub + "<br>");
-document.write(mul + "<br>");
-document.write(div + "<br>");
+// document.write(++sum + "<br>");
+// document.write(--sub + "<br>");
+// document.write(mul + "<br>");
+// document.write(div + "<br>");
 
 
 
