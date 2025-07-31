@@ -59,3 +59,7 @@
 
 
 
+let result1 = 8 + 4 * 2;
+let result2 = 8 + (4 * 2); // = 16
+let result3 = (10 - 2) + 3 * 2;
+let result4 = 20 / (2 + 3) * 2;
