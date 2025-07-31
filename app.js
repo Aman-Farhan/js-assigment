@@ -31,10 +31,10 @@
 // Illeageal names in JAVASCRIPT :
 
 
-let 1stPlace = "First";         // INVALID: starts with a digit (must start with letter / _ / $) 
-let user-name = "Jane";         // INVALID: hyphen `-` is treated as minus operator, not allowed in identifier 
-let user name = "John";         // INVALID: spaces not allowed in variable names 
-let let = 5;                    // INVALID: `let` is a reserved keyword 
-let function = function() {};   // INVALID: `function` reserved as a keyword 
-let @price = 50;                // INVALID: `@` is not a permitted character 
-let name? = "Bob";              // INVALID: `?` is not allowed in identifiers :
+// let 1stPlace = "First";         // INVALID: starts with a digit (must start with letter / _ / $) 
+// let user-name = "Jane";         // INVALID: hyphen `-` is treated as minus operator, not allowed in identifier 
+// let user name = "John";         // INVALID: spaces not allowed in variable names 
+// let let = 5;                    // INVALID: `let` is a reserved keyword 
+// let function = function() {};   // INVALID: `function` reserved as a keyword 
+// let @price = 50;                // INVALID: `@` is not a permitted character 
+// let name? = "Bob";              // INVALID: `?` is not allowed in identifiers 
