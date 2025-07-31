@@ -1,5 +1,5 @@
-let alart = alert("Hellow Aman Welcome To This Page");
-console.log(alart);
+// let alart = alert("Hellow Aman Welcome To This Page");
+// console.log(alart);
 
 
 
