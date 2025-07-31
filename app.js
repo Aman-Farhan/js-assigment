@@ -3,4 +3,8 @@ console.log(alart);
 
 
 
+let firstName = "Aman";
+let lastName = "Farhan";
 
+let finalName = firstName + " " + lastName; 
+alert(finalName);
