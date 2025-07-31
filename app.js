@@ -38,3 +38,24 @@
 // let function = function() {};   // INVALID: `function` reserved as a keyword 
 // let @price = 50;                // INVALID: `@` is not a permitted character 
 // let name? = "Bob";              // INVALID: `?` is not allowed in identifiers :
+
+
+
+let a = +prompt("Enter A number");
+let b = +prompt("Enter A number");
+
+let sum = a + b;
+let sub = a - b;
+let mul = a * b;
+let div = a / b;
+let modeulas = a % b;
+// let increament = 
+let decreament = a + b;
+
+document.write(++sum + "<br>");
+document.write(--sub + "<br>");
+document.write(mul + "<br>");
+document.write(div + "<br>");
+
+
+
